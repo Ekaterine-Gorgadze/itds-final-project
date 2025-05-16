@@ -68,7 +68,7 @@ This project serves as the final assignment for the Introduction to Data Science
 ## GitHub Repository
 
 This project is also available on GitHub:
-👉 [REPLACE-WITH-YOUR-GITHUB-LINK](https://github.com/your-username/itds-final-project)
+https://github.com/Ekaterine-Gorgadze/itds-final-project
 
 ---
 
